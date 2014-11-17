@@ -14,4 +14,4 @@ A monitoring device that monitors temperature and motion. The device also sends 
 
 ##Wiring
 
-![Wiring](https://github.com/naetro/monitoringdevice-with-emailwarning/blob/master/pictures/pirtemp_fritzin_edited.jpg)
+![Wiring](https://github.com/naetro/monitoringdevice-with-emailwarning/blob/master/pictures/pirtemp_fritzin_edited2.jpg)
