@@ -17,18 +17,18 @@ A monitoring device that monitors temperature and motion. The device also sends 
 ##Wiring
 
 PIR sensor:
-VCC to 5V
-GND to GND
-OUT to digital 2
+* VCC to 5V
+* GND to GND
+* OUT to digital 2
 
 Temperature sensor:
-Power up the breadboard with 3.3V pin
-Connect AREF pin to + on the breadboard's power bus 
+* Power up the breadboard with 3.3V pin
+* Connect AREF pin to + on the breadboard's power bus 
 
-Attach the sensor to breadboard
-Connect the left pin (facing the flat side) of the sensor to power 
-Connect the right pin (facing the flat side) of the sensor to ground
-Connect the middle pin (facing the flat side) of the sensor to analog 1 
+* Attach the sensor to breadboard
+* Connect the left pin (facing the flat side) of the sensor to power 
+* Connect the right pin (facing the flat side) of the sensor to ground
+* Connect the middle pin (facing the flat side) of the sensor to analog 1 
 
 ![Wiring](https://github.com/naetro/monitoringdevice-with-emailwarning/blob/master/pictures/pirtemp_fritzin_edited2.jpg)
 
